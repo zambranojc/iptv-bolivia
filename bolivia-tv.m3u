@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Bolivia TV" group-title="Bolivia",Bolivia TV
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="ATB" group-title="Bolivia",ATB
+https://cdn.digitalmedia.com.bo/atb/atb.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTP" group-title="Bolivia",RTP
+https://rtpbolivia.com/live/rtp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVU Cochabamba" group-title="Bolivia",TVU Cochabamba
+https://s1.tvdatta.com:3557/live/tvulive.m3u8
+
+#EXTINF:-1 tvg-name="Gigavision" group-title="Bolivia",Gigavision
+https://master.tucableip.com/gigavision/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Abya Yala TV" group-title="Bolivia",Abya Yala TV
+https://master.tucableip.com/abyayalatv/playlist.m3u8
